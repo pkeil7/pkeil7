@@ -8,7 +8,7 @@ I'm interested in
 - exploring julia for machine learning and hyrbid models
 - Tropical Tropospheric Temperatures and Circulation
 
-Check out Tools and Projects from our group at: https://github.com/DKRZ-AIM.
+Check out Tools and Projects from our group at: https://github.com/Hereon-KSN .
 
 My ORCID: https://orcid.org/0000-0002-6502-4148
 
