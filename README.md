@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi!
 
 I'm an AI consultant for the Helmholtz AI Earth and Envionrment team. I also have a background in cliamte science.
 
